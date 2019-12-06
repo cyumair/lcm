@@ -27,4 +27,4 @@ LCM(numbers)
 if len(lcm) == 0:   
     print('no lcm')
 else:
-    print('Lcm is ' , min(lcm))
+    print('Lcm is ' , lcm[0])
