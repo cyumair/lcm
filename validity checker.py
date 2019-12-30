@@ -9,7 +9,7 @@ isSmall = False
 isDigits = False
 isSpecialChar = False
 
-if len(passward) > 5 and len(passward) < 7:
+if len(passward) > 5 and len(passward) < 17:
 	for i in passward:
 		if i in Caps:
 			isCap = True
